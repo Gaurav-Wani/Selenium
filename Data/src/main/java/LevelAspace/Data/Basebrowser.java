@@ -9,11 +9,6 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
  * Hello world!
  *
  */
-
-/*
-	Created by Sagar
-*/
-
 public class Basebrowser 
 {
 public static WebDriver driver= null;
